@@ -1,0 +1,58 @@
+{
+  "name": "weather-power-up",
+  "version": "1.0.0",
+  "description": "A small weather Power-Up for Trello",
+  "main": "index.js",
+  "repository": "git@github.com:trello/weather-power-up.git",
+  "author": "Matt Cowan <mcowan@atlassian.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "16"
+  },
+  "scripts": {
+    "build": "parcel build src/html/*.html",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "bent": "^7.3.12",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-interpolate-env": "^0.0.1",
+    "parcel-plugin-static-files-copy": "^2.6.0",
+    "prettier": "^2.3.1"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true
+    },
+    "extends": [
+      "airbnb/base",
+      "plugin:prettier/recommended"
+    ],
+    "parser": "babel-eslint",
+    "plugins": [
+      "prettier"
+    ]
+  },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "staticFiles": {
+    "staticPath": [
+      "src/images",
+      "src/strings"
+    ]
+  }
+}
