@@ -13,21 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MRSHub
+title: Parenchima
 locale: "en-US"
-name: "Georg Oeltzschner"
-email: goeltzs1@jhmi.edu
+name: "Serhii"
+email: parhomenkopsv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the MRSHub, a website collecting everything useful for the magnetic
   resonance spectroscopy community.
-twitter_username: mrshub
-github_username: mrshub
+twitter_username: parenchima
+github_username: parenchima
 minimal_mistakes_skin: default
 search: true
 url: "https://mrshub.netlify.com"
 baseurl: ""
 repository: mrshub/mrshub-website
-logo: "/assets/images/MRSHubLogo.png"
+logo: "/assets/images/logo_parenchima.svg"
 masthead_title: " "
 
 # Build settings
@@ -66,7 +66,7 @@ plugins:
   - jekyll-github-metadata
 
 author:
-  name   : "Georg Oeltzschner"
+  name   : "Serhii"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Johns Hopkins University"
   links:
