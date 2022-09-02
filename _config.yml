@@ -27,7 +27,7 @@ search: true
 url: "https://mrshub.netlify.com"
 baseurl: ""
 repository: mrshub/mrshub-website
-logo: "/assets/images/logo_parenchima.svg"
+logo: "/assets/images/logo_parenchima.png"
 masthead_title: " "
 
 # Build settings
