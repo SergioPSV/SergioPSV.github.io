@@ -1,45 +1,28 @@
-Georg Oeltzschner:
-  name   : "Georg Oeltzschner"
-  avatar : "/assets/images/authors/go.jpg"
-  bio    : "Instructor in Radiology at Johns Hopkins University in Baltimore.
+# Authors
 
-
-           Interested in advanced spectral editing, new modelling and quantification approaches; passionate about open-source software development, code sharing, data sharing, and collaborative research.
-
-
-           Lover of football (the variety played with your feet), my roadbike, coffee, podcasts, and Spotify playlists. Enthusiastic, but pathetic amateur woodworker."
-
+Billy Rick:
+  name        : "Billy Rick"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.specfitlab.com"
+      url: "https://thewhip.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/oeltzschner"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/schorschinho"
+      url: "https://twitter.com/extravagantman"
 
-Brian J. Soher:
-  name   : "Brian J. Soher"
-  avatar : "/assets/images/authors/bjs.jpg"
-  bio    : "Duke University"
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://scholars.duke.edu/person/brian.soher"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bsoher"
-
-William Clarke:
-  name   : "William Clarke"
-  avatar : "/assets/images/authors/wc.jpg"
-  bio    : "University of Oxford"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.ndcn.ox.ac.uk/team/william-clarke"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/wexeee"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"

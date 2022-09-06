@@ -1,100 +1,57 @@
+# main links links
 main:
-  - title: "Home"
+  - title: "Community"
     url: /
-    description: "The MRSHub Home"
-  - title: "Learning MRS"
-    url: https://mrshub.github.io/mrs-educational-book/
-    description: "The MRSHub educational material repository"
-  - title: "Software & Code"
-    url: /software/
-    description: "The MRSHub software and code repository"
-  - title: "Forum"
-    url: https://forum.mrshub.org
-    description: "The MRSHub community forum"
-  - title: "Data"
-    url: /datasets/
-    description: "The MRSHub software and code repository"
-  - title: "Links"
-    url: /links/
-    description: "Useful links and resources"
-  - title: "News"
-    url: /news/
-    description: "The MRSHub News Blog"
+  - title: "Events"
+    url: /home
+  - title: "Participants"
+    url: /participants/
+  - title: "Resources"
+    url: /
   - title: "About"
-    url: /about/
-    description: "About MRSHub"
+    url: /
 
-
-# software sidebar links
-software:
-  - title: "Software & Code"
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Parent Page A"
     children:
-        - title: "How to access code"
-          url: /software/
-        - title: "Contribute your code"
-          url: /software_contribute/
-
-  - title: "Software Packages"
+      - title: "Child Page A1"
+        url: /child-page-a1/
+      - title: "Child Page A2"
+        url: /child-page-a2/
+      - title: "Child Page A3"
+        url: /child-page-a3/
+      - title: "Child Page A4"
+        url: /child-page-a4/
+  - title: "Parent Page B"
     children:
-        - title: "COMPLETE LIST"
-          url: /software_all/
-        - title: "Analysis & Quantification"
-          url: /software_analysis/
-        - title: "Data Simulation & Basis Set Generation"
-          url: /software_simulation/
-        - title: "Deidentification"
-          url: /software_deid/
-        - title: "Input/Output"
-          url: /software_io/
-        - title: "Processing"
-          url: /software_processing/
-        - title: "Reconstruction"
-          url: /software_reconstruction/
-        - title: "Reproducible Workflows"
-          url: /software_reproducible_workflows/
-        - title: "Visualization"
-          url: /software_visualization/
-
-# datasets sidebar links
-datasets:
-  - title: "Data"
+      - title: "Child Page B1"
+        url: /child-page-b1/
+      - title: "Child Page B2"
+        url: /child-page-b2/
+      - title: "Child Page B3"
+        url: /child-page-b3/
+      - title: "Child Page B4"
+        url: /child-page-b4/
+      - title: "Child Page B5"
+        url: /child-page-b5/
+  - title: "Parent Page C"
     children:
-        - title: "Overview"
-          url: /datasets/
-        - title: "How to host and organize your dataset"
-          url: /datasets_host_organize/
-        - title: "Contribute your dataset"
-          url: /datasets_contribute/
-        - title: "Data privacy and compliance"
-          url: /datasets_privacy/
-
-  - title: "Available datasets"
+      - title: "Child Page C1"
+        url: /child-page-c1/
+      - title: "Child Page C2"
+        url: /child-page-c2/
+      - title: "Child Page C3"
+        url: /child-page-c3/
+      - title: "Child Page C4"
+        url: /child-page-c4/
+      - title: "Child Page C5"
+        url: /child-page-c5/
+  - title: "Parent Page D"
     children:
-        - title: "Single-voxel MRS"
-          url: /datasets_svs/
-        - title: "Functional MRS"
-          url: /datasets_fmrs/
-        - title: "MRSI"
-          url: /datasets_mrsi/
-        - title: "Macromolecules"
-          url: /datasets_mm/
-        - title: "Basis sets"
-          url: /datasets_basissets/
-
-# links sidebar links
-links:
-  - title: "Links"
-    children:
-    - title: "Useful Links"
-      url: /links/
-    - title: "Videos and courses"
-      url: /links_courses/
-
-# about sidebar links
-about:
-  - title: "About"
-    children:
-      - title: "MRSHub"
-        url: /about/
-      - title: "Committee for MRS Code and Data Sharing"
-        url: /about_committee
+      - title: "Child Page D1"
+        url: /child-page-d1/
+      - title: "Child Page D2"
+        url: /child-page-d2/
+      - title: "Child Page D3 (External)"
+        url: https://your-domain.com
