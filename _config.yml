@@ -251,10 +251,13 @@ compress_html:
 
 # Collections
 collections:
-  pets:
+  resources:
     output: true
     permalink: /:collection/:path/
   countries:
+    output: true
+    permalink: /:collection/:path/
+  community:
     output: true
     permalink: /:collection/:path/
 
@@ -285,14 +288,22 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _pets
+  # _resources
   - scope:
       path: ""
-      type: pets
+      type: resources
     values:
       layout: single
       author_profile: true
       share: true
+  # _community
+  - scope:
+      path: ""
+      type: community
+    values:
+      layout: single
+      author_profile: false
+      share: false
   # _countries
   - scope:
       path: ""

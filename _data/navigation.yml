@@ -1,15 +1,13 @@
 # main links links
 main:
   - title: "Community"
-    url: /
-  - title: "Events"
-    url: /home
+    url: /community/
   - title: "Participants"
     url: /participants/
   - title: "Resources"
-    url: /
+    url: /resources/
   - title: "About"
-    url: /
+    url: /about/
 
 # sidebar navigation list sample
 sidebar-sample:
