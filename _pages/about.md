@@ -21,9 +21,7 @@ Follow us on [ResearchGate](https://www.researchgate.net/project/PARENCHIMA-Magn
 ### PRIVACY NOTICE
 This is the current version of our renal MRI privacy notice. For further questions please contact us on privacy@renalmri.org.
 
-{% include feature_row id="button1" type="center" %}
-
-<center><a href="https://www.researchgate.net" class="btn btn--primary">Link Text</a></center>
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform?usp=sf_link" class="btn btn--primary btn--large">Submit Abstract</a></center>
 
 ### PROJECT INFORMATION
 RENALMRI.org is maintained by the COST Action PARENCHIMA (CA16103), supported by the European Cooperation in Science and Technology (COST).  
