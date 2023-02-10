@@ -23,6 +23,8 @@ This is the current version of our renal MRI privacy notice. For further questio
 
 {% include feature_row id="button1" type="center" %}
 
+<center><a href="https://www.researchgate.net" class="btn btn--primary">Link Text</a></center>
+
 ### PROJECT INFORMATION
 RENALMRI.org is maintained by the COST Action PARENCHIMA (CA16103), supported by the European Cooperation in Science and Technology (COST).  
 
