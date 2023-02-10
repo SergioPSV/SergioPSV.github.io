@@ -3,6 +3,11 @@ title: "About"
 permalink: /about/
 date: 2022-11-10T18:39:14+00:00
 author_profile: false
+button1:
+  - title: "Placeholder Image Center Aligned"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform"
+    btn_label: "Submit Abstract"
+    btn_class: "btn--primary"
 ---
 
 RENALMRI.org is an open and growing network of researchers and clinicians bringing together, among others, nephrology, radiology, pathology, physiology and physics to promote the clinical translation of functional renal magnetic resonance imaging. If you want to join our efforts, please go to [https://renalmri.org/login](https://renalmri.org/login) to register with our services. If you have any issues, please contact the lead of working group 5.
@@ -16,7 +21,7 @@ Follow us on [ResearchGate](https://www.researchgate.net/project/PARENCHIMA-Magn
 ### PRIVACY NOTICE
 This is the current version of our renal MRI privacy notice. For further questions please contact us on privacy@renalmri.org.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfPbyU29iJ_Kwowao283cShPudQaCWUo2MPDLsEBE_SIvylQg/viewform?embedded=true" width="640" height="812" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+{% include feature_row id="button1" type="center" %}
 
 ### PROJECT INFORMATION
 RENALMRI.org is maintained by the COST Action PARENCHIMA (CA16103), supported by the European Cooperation in Science and Technology (COST).  
