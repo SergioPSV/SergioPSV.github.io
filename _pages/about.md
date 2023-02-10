@@ -4,10 +4,9 @@ permalink: /about/
 date: 2022-11-10T18:39:14+00:00
 author_profile: false
 button1:
-  - title: "Placeholder Image Center Aligned"
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform"
+  - url: "https://docs.google.com/forms/d/e/1FAIpQLSfsJpl6NQoZb_z02oUEPyXkqG0QN8hh51H1Yte2xygZcCk0Jw/viewform"
     btn_label: "Submit Abstract"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary btn--x-large"
 ---
 
 RENALMRI.org is an open and growing network of researchers and clinicians bringing together, among others, nephrology, radiology, pathology, physiology and physics to promote the clinical translation of functional renal magnetic resonance imaging. If you want to join our efforts, please go to [https://renalmri.org/login](https://renalmri.org/login) to register with our services. If you have any issues, please contact the lead of working group 5.
