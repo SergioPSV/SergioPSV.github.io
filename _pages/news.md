@@ -1,7 +1,10 @@
 ---
-permalink: /news
+layout: splash
+permalink: /news/
 author_profile: false
+title: "News"
 ---
+
 
 ![promo](/assets/images/gent_images/gent_promo.png)
 
