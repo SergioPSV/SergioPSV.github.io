@@ -71,7 +71,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo.jpg"
+og_image                 : "/assets/images/kidney.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -90,8 +90,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Serhii"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "renalmri"
+  avatar           : "/assets/images/kidney.jpeg"
   bio              : "Your bio."
   location         : "Somewhere"
   links:
