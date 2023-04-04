@@ -34,37 +34,87 @@ See also our dissemination activities.
 
 Follow us on Twitter ***@renalMRI***
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
 <table>
-    <thead>
-        <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-            <th>Column 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4 align="center">R1 Text</td>
-            <td rowspan=2 align="center">R2 Text A</td>
-            <td align="center">R3 Text A</td>
-        </tr>
-        <tr>
-            <td align="center">R3 Text B</td>
-        </tr>
-        <tr>
-            <td rowspan=2 align="center">R2 Text B</td>
-            <td align="center">R3 Text C</td>
-        </tr>
-        <tr>
-            <td align="center">R3 Text D</td>
-        </tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th>Session</th>
+      <th>Time</th>
+      <th>Talk</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan=3 align="center">MONDAY 11 SEPTEMBER</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">8:30-9:00</td>
+      <td align="center">Coffee desk upon arrival</td>
+    </tr>
+    <tr>
+      <td rowspan=5 align="center">1st Session <br>Opening</td>
+      <td align="center">9:00-10:00</td>
+      <td align="center">Opening</td>
+    </tr>
+    <tr>
+      <td align="center">9:00</td>
+      <td align="center">Welcome and Objectives</td>
+    </tr>
+    <tr>
+      <td align="center">9:15</td>
+      <td align="center">renalMRI.org</td>
+    </tr>
+    <tr>
+      <td align="center">9:30</td>
+      <td align="center">Renal imaging in ESUR</td>
+    </tr>
+    <tr>
+      <td align="center">9:45</td>
+      <td align="center">Renal imaging in ISMRM</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">10:00-10:30</td>
+      <td align="center">Break</td>
+    </tr>
+
+    <tr>
+      <td rowspan=6 align="center">2nd Session<br>Renal urological imaging</td>
+      <td align="center">10:30-12:10</td>
+      <td align="center">Renal urological imaging</td>
+    </tr>
+    <tr>
+      <td align="center">10:30</td>
+      <td align="center">Speed dating Radiology/Urology: clinical needs of the urologist</td>
+    </tr>
+    <tr>
+      <td align="center">10:50</td>
+      <td align="center">Imaging solid renal lesions: new developments in US, CT and MRI</td>
+    </tr>
+    <tr>
+      <td align="center">11:10</td>
+      <td align="center">Imaging in urological interventions</td>
+    </tr>
+    <tr>
+      <td align="center">11:30</td>
+      <td align="center">MR urography: adults + pediatric</td>
+    </tr>
+    <tr>
+      <td align="center">11:50</td>
+      <td align="center">How to protect kidney: contrast agent safety and novel developments</td>
+    </tr>
+
+    <tr>
+      <td align="center"></td>
+      <td align="center">12:10-13:30</td>
+      <td align="center">Lunch (+poster viewing)</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">13:30-14:00</td>
+      <td align="center">Power pitch session (3 minutes talks)</td>
+    </tr>
+  </tbody>
 </table>
 
 
