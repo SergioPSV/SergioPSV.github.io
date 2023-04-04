@@ -53,7 +53,7 @@ Follow us on Twitter ***@renalMRI***
     </tr>
     <tr>
       <td rowspan=5 align="center">1st Session <br>Opening</td>
-      <td align="center">9:00-10:00</td>
+      <td align="center" style="width: 20%;">9:00-10:00</td>
       <td align="center">Opening</td>
     </tr>
     <tr>
