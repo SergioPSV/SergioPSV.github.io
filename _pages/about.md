@@ -44,7 +44,7 @@ Follow us on Twitter ***@renalMRI***
   </thead>
   <tbody>
     <tr>
-      <td colspan=3 align="center">MONDAY 11 SEPTEMBER</td>
+      <td colspan=3 align="center"><b>MONDAY 11 SEPTEMBER</b></td>
     </tr>
     <tr>
       <td align="center"></td>
