@@ -37,9 +37,9 @@ Follow us on Twitter ***@renalMRI***
 <table>
   <thead>
     <tr>
-      <th>Session</th>
-      <th>Time</th>
-      <th>Talk</th>
+      <th align="center">Session</th>
+      <th align="center">Time</th>
+      <th align="center">Talk</th>
     </tr>
   </thead>
   <tbody>
@@ -77,7 +77,6 @@ Follow us on Twitter ***@renalMRI***
       <td align="center">10:00-10:30</td>
       <td align="center">Break</td>
     </tr>
-
     <tr>
       <td rowspan=6 align="center">2nd Session<br>Renal urological imaging</td>
       <td align="center">10:30-12:10</td>
@@ -103,7 +102,6 @@ Follow us on Twitter ***@renalMRI***
       <td align="center">11:50</td>
       <td align="center">How to protect kidney: contrast agent safety and novel developments</td>
     </tr>
-
     <tr>
       <td align="center"></td>
       <td align="center">12:10-13:30</td>
