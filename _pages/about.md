@@ -37,9 +37,9 @@ Follow us on Twitter ***@renalMRI***
 <table>
   <thead>
     <tr>
-      <th align="center">Session</th>
-      <th align="center">Time</th>
-      <th align="center">Talk</th>
+      <th style="text-align: center;">Session</th>
+      <th style="text-align: center;">Time</th>
+      <th style="text-align: center;">Talk</th>
     </tr>
   </thead>
   <tbody>
