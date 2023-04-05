@@ -51,7 +51,7 @@ Follow us on Twitter ***@renalMRI***
       <td align="center">Coffee desk upon arrival</td>
     </tr>
     <tr>
-      <td rowspan=5 align="center" style="border-right: solid grey;">1st Session <br>Opening</td>
+      <td rowspan=5 align="center" style="border-right: solid #9b9b9d;">1st Session <br>Opening</td>
       <td align="center" style="width: 20%;">9:00-10:00</td>
       <td align="center">Opening</td>
     </tr>
@@ -77,7 +77,7 @@ Follow us on Twitter ***@renalMRI***
       <td align="center">Break</td>
     </tr>
     <tr>
-      <td rowspan=6 align="center" style="border-right: solid grey;">2nd Session<br>Renal urological imaging</td>
+      <td rowspan=6 align="center" style="border-right: solid #9b9b9d;">2nd Session<br>Renal urological imaging</td>
       <td align="center">10:30-12:10</td>
       <td align="center">Renal urological imaging</td>
     </tr>
