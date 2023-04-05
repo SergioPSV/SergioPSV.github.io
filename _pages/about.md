@@ -33,7 +33,7 @@ See also our dissemination activities.
 </table>
 
 Follow us on Twitter ***@renalMRI***
-<table align="center" border>
+<table align="center">
   <thead>
     <tr>
       <th style="text-align: center;">Session</th>
