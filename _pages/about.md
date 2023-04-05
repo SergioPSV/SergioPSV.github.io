@@ -33,8 +33,7 @@ See also our dissemination activities.
 </table>
 
 Follow us on Twitter ***@renalMRI***
-
-<table>
+<table align="center" border>
   <thead>
     <tr>
       <th style="text-align: center;">Session</th>
@@ -44,7 +43,7 @@ Follow us on Twitter ***@renalMRI***
   </thead>
   <tbody>
     <tr>
-      <td colspan=3 align="center"><b>MONDAY 11 SEPTEMBER</b></td>
+      <td colspan=3 align="center" style="font-weight: bold; text-transform: uppercase;">Monday 11 September</td>
     </tr>
     <tr>
       <td align="center"></td>
@@ -111,6 +110,204 @@ Follow us on Twitter ***@renalMRI***
       <td align="center"></td>
       <td align="center">13:30-14:00</td>
       <td align="center">Power pitch session (3 minutes talks)</td>
+    </tr>
+    <tr>
+      <td rowspan=6 align="center">3rd Session<br>Imaging renal function (part 1)</td>
+      <td align="center">14:00-16:00</td>
+      <td align="center">Imaging renal function (part 1)</td>
+    </tr>
+    <tr>
+      <td align="center">14:00</td>
+      <td align="center">Speed dating Radiology/Nephrology: clinical needs of the nephrologist</td>
+    </tr>
+    <tr>
+      <td align="center">14:20</td>
+      <td align="center">Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration
+      Rate</td>
+    </tr>
+    <tr>
+      <td align="center">14:40</td>
+      <td align="center">MRI: opportunities for functional renal imaging</td>
+    </tr>
+    <tr>
+      <td align="center">15:20</td>
+      <td align="center">NUC: renal dynamic scintigraphy and opportunies for dynamic PET for functional kidney imaging</td>
+    </tr>
+    <tr>
+      <td align="center">15:40</td>
+      <td align="center">US: Functional reserve imaging using CEUS and other techniques</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">16:00-16:30</td>
+      <td align="center">Break</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">16:30-17:00</td>
+      <td align="center">Power pitch session (3 minutes talks)</td>
+    </tr>
+    <tr>
+      <td rowspan=4 align="center">4th Session<br>Imaging renal function (part 2)</td>
+      <td align="center">17:00-18:00</td>
+      <td align="center">Imaging renal function (part 2)</td>
+    </tr>
+    <tr>
+      <td align="center">17:00</td>
+      <td align="center">Renal stress testing: clinical relevance and opportunities for imaging?</td>
+    </tr>
+    <tr>
+      <td align="center">17:20</td>
+      <td align="center">Biased renal MRI: How the drugs influence our image data</td>
+    </tr>
+    <tr>
+      <td align="center">17:40</td>
+      <td align="center">MRI: New developments in targeted MRI tracers for renal filtration and perfusion</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">18:00-18:10</td>
+      <td align="center">Closure</td>
+    </tr>
+    <tr>
+      <td align="center">Evening</td>
+      <td align="center">19:30-22:30</td>
+      <td align="center">Course diner</td>
+    </tr>
+    <tr>
+      <td align="center">Night</td>
+      <td align="center">22:30-?</td>
+      <td align="center">The T2 stars? Jazz trio?</td>
+    </tr>
+    <tr>
+      <td colspan=3 align="center" style="font-weight: bold; text-transform: uppercase;">Tuesday 12 September</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">8:30-9:00</td>
+      <td align="center">Coffee desk upon arrival</td>
+    </tr>
+    <tr>
+      <td rowspan=6 align="center">5th Session <br>CKD imaging</td>
+      <td align="center" style="width: 20%;">9:00-10:30</td>
+      <td align="center">CKD imaging</td>
+    </tr>
+    <tr>
+      <td align="center">9:00</td>
+      <td align="center">Clinical trials on added value of MRI in CKD</td>
+    </tr>
+    <tr>
+      <td align="center">9:20</td>
+      <td align="center">MRI: fibrosis imaging and possibilities for the kidney</td>
+    </tr>
+    <tr>
+      <td align="center">9:40</td>
+      <td align="center">Imaging in ADPKD: beyond total kidney volume</td>
+    </tr>
+    <tr>
+      <td align="center">10:00</td>
+      <td align="center">Validation of MRI biomarkers by histopathology</td>
+    </tr>
+    <tr>
+      <td align="center">10:15</td>
+      <td align="center">MRI: Physiological changes during dialysis assessed using MRI?</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">10:30-11:00</td>
+      <td align="center">Break</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">11:00-11:30</td>
+      <td align="center">Power pitch session (3 minutes talks)</td>
+    </tr>
+    <tr>
+      <td rowspan=5 align="center">6th Session<br>AKI imaging</td>
+      <td align="center">11:30-12:30</td>
+      <td align="center">AKI imaging</td>
+    </tr>
+    <tr>
+      <td align="center">11:30</td>
+      <td align="center">General talk on AKI</td>
+    </tr>
+    <tr>
+      <td align="center">11:45</td>
+      <td align="center">Multiparametric MRI assessment of renal structure and function in acute kidney injury and renal recovery</td>
+    </tr>
+    <tr>
+      <td align="center">12:00</td>
+      <td align="center">NUC: Renal scintigraphy to predict persistent renal failure after acute kidney injury</td>
+    </tr>
+    <tr>
+      <td align="center">12:15</td>
+      <td align="center">Multi-modality renal imaging (CEUS/scintigraphy/mpMRI) in dogs (and humans)</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">12:30-13:30</td>
+      <td align="center">Lunch</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">13:30-14:00</td>
+      <td align="center">Power pitch session (3 minutes talks)</td>
+    </tr>
+    <tr>
+      <td rowspan=5 align="center">7th Session<br>Transplant imaging and imaging of DKD</td>
+      <td align="center">14:00-15:30</td>
+      <td align="center">Transplant imaging and imaging of DKD</td>
+    </tr>
+    <tr>
+      <td align="center">14:00</td>
+      <td align="center">Diagnostics in renal transplant care and imaging opportunities</td>
+    </tr>
+    <tr>
+      <td align="center">14:20</td>
+      <td align="center">mpMRI before and after kidney transplantation? -> overview of clinical trials</td>
+    </tr>
+    <tr>
+      <td align="center">14:40</td>
+      <td align="center">Prognostic imaging biomarkers for diabetic kidney disease (iBEAt)</td>
+    </tr>
+    <tr>
+      <td align="center">15:00</td>
+      <td align="center">Cardiorenal syndrome: Overview of metabolic imaging biomarkers in obesity-related renal disease</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">15:30-16:00</td>
+      <td align="center">Break</td>
+    </tr>
+    <tr>
+      <td rowspan=6 align="center">8th Session<br>Image processing</td>
+      <td align="center">16:00-17:00</td>
+      <td align="center">Image processing</td>
+    </tr>
+    <tr>
+      <td align="center">16:00</td>
+      <td align="center">Multimodality and multiscale imaging for renal vascular systems biology</td>
+    </tr>
+    <tr>
+      <td align="center">16:20</td>
+      <td align="center">Image processing in a clinical environment: where do we stand?</td>
+    </tr>
+    <tr>
+      <td align="center">16:30</td>
+      <td align="center">Image processing in a clinical environment: where do we stand?</td>
+    </tr>
+    <tr>
+      <td align="center">16:40</td>
+      <td align="center">Image processing in a clinical environment: where do we stand?</td>
+    </tr>
+    <tr>
+      <td align="center">16:50</td>
+      <td align="center">Image processing in a clinical environment: where do we stand?</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">17:00-17:30</td>
+      <td align="center">Closing</td>
     </tr>
   </tbody>
 </table>
